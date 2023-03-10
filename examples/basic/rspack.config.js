@@ -6,6 +6,7 @@ module.exports = {
     main: './src/index.js'
   },
   builtins: {
+    // html
     html: [
       {
         template: './index.html'
